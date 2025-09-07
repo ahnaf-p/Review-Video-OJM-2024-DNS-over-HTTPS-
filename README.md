@@ -20,7 +20,7 @@ Minggu 7 September 2025
   
 # Isi  
 1. Penjelasan TOPOLOGI  
-![](salmanalifan.png)
+![](salmanalifan.png)  
 2. Konfigurasi di Mikrotik  
 3. Tidak mengunakan use peer dns di dhcp client  
 4. Set DNS Static, mengunakan DNS Kominfo  
